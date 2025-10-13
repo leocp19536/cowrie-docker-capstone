@@ -1,6 +1,15 @@
 # Cowrie Docker Capstone Project
 
-## Overview
+## Project Overview
+
+This project demonstrates the use of **Cowrie**, an interactive SSH honeypot, captured and deployed using **Docker**. Cowrie is designed to capture and log the actions of attackers attempting to compromise a system. The honeypot emulates vulnerable systems to attract attackers, thereby enabling detailed analysis of cyber threats.
+
+### Key Features:
+- **Interactive SSH Session Simulation**: Logs interactions with attackers.
+- **Real-Time Data**: Captures attacks in real-time for analysis.
+- **Dockerized Deployment**: Easy setup using Docker containers.
+
+The goal of this capstone project is to explore cybersecurity concepts, penetration testing, and honeypot analysis for educational and research purposes.
 This project demonstrates the use of **Cowrie**, an interactive SSH honeypot, captured using Docker. Cowrie helps in capturing and logging the actions of attackers attempting to compromise a system. The purpose of this capstone project is to explore cybersecurity concepts, penetration testing, and honeypot analysis.
 
 ## Prerequisites
